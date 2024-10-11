@@ -1,0 +1,7 @@
+C:\Users\markusb\Gitwork\MarkusBkamat\bin\Debug\MarkusBkamat.exe.config
+C:\Users\markusb\Gitwork\MarkusBkamat\bin\Debug\MarkusBkamat.exe
+C:\Users\markusb\Gitwork\MarkusBkamat\bin\Debug\MarkusBkamat.pdb
+C:\Users\markusb\Gitwork\MarkusBkamat\obj\Debug\MarkusBkamat.csproj.AssemblyReference.cache
+C:\Users\markusb\Gitwork\MarkusBkamat\obj\Debug\MarkusBkamat.csproj.CoreCompileInputs.cache
+C:\Users\markusb\Gitwork\MarkusBkamat\obj\Debug\MarkusBkamat.exe
+C:\Users\markusb\Gitwork\MarkusBkamat\obj\Debug\MarkusBkamat.pdb
